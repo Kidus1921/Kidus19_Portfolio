@@ -51,7 +51,7 @@ function MainComponent() {
       technologies: ["Python", "Flask", "Bootstrap", "HTML/CSS"],
       image:
         "https://ucarecdn.com/cc8af1e7-5752-4e1f-b3cf-1c1a97bdaa64/adataanalyticsdashboardinterfaceon_b3DuSAnTdSPbLwYFNMmw_1wqCFHLSREuZA523gGkjkw.jpeg",
-      demo: "https://example.com/demo",
+      demo: "https://report-generator-abhe.onrender.com",
       github: "https://github.com/Kidus1921/report-generator",
     },
     {
@@ -71,7 +71,7 @@ function MainComponent() {
       technologies: ["Java"],
       image:
         "https://ucarecdn.com/2a6e2eeb-8417-406f-8adc-ebb53da673c2/OIP.RApehYblgRWmvJxY1gxVdwHaFN",
-      demo: "https://example.com/demo3",
+      demo: "",
       github: "https://github.com/Kidus1921/StudentElectionManagement",
     },
   ];
