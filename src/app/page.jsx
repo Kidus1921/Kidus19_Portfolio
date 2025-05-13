@@ -55,7 +55,7 @@ function MainComponent() {
       github: "https://github.com/Kidus1921/report-generator",
     },
     {
-      title: "Basic To-Do List App with Timestamp and Priority Sorting",
+      title: "Basic To-Do List App with Timestamp and Priority Sortings",
       description:
         "This is a lightweight to-do list web application that allows users to add tasks with timestamps and priority levels. Tasks can be sorted by name, creation time, or priority, enabling users to manage their daily goals more effectively. The interface is simple and user-friendly, making it ideal for personal task tracking and productivity.",
       technologies: ["HTML", "CSS", "JavaScript"],
